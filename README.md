@@ -1,2 +1,2 @@
 # images-in-readme
-Use github to host images
+Use github to host images.
